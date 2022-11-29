@@ -1,4 +1,5 @@
-![image](/uploads/a96fc83be7c9523e23cadea4af27d9d4/image.png)
+![image](https://user-images.githubusercontent.com/92859179/204535789-34844f48-0107-4e35-94e1-a2fa6c722c7d.png)
+
 
 # 웹서비스 소개
 
@@ -45,7 +46,6 @@ Face API를 이용한 표정분석
 총평과 같은 면접 피드백을 제공합니다.
 ```
 
-
 ## [📃 개발일지 Wiki](https://lab.ssafy.com/s07-webmobile2-sub2/S07P12C206/-/wikis/home)
 
 ## :sparkles: 팀 구성 
@@ -54,32 +54,32 @@ Face API를 이용한 표정분석
   <tr>
     <td align="center" width="150px">
       <a href="https://github.com/cih831" target="_blank">
-        <img src="/uploads/f50ed29f5e5cb395e08f9aaf1ab1ddd0/image.png" alt="최인호 프로필" />
+        <img src="https://user-images.githubusercontent.com/92859179/204535987-e1d4bf7c-5256-4703-b243-207d42f720a0.png" alt="최인호 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
       <a href="#" target="_blank">
-        <img src="/uploads/30eb7d89542ecece03f421638327e35a/image.png" alt="김지수 프로필" />
+        <img src="https://user-images.githubusercontent.com/92859179/204536083-0b0193ec-5a7d-4ebb-b842-a9c54e8cf525.png" alt="김지수 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
       <a href="#" target="_blank">
-        <img src="/uploads/fd220bd593e4692498289ba0cd328050/image.png" alt="윤형준 프로필" />
+        <img src="https://user-images.githubusercontent.com/92859179/204536166-f730c1ea-615b-477b-ae7f-3482c643a1bc.png" alt="윤형준 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
       <a href="https://github.com/jg6735" target="_blank">
-        <img src="/uploads/7814fe722369bce8eeb7484103c5e4f8/image.png" alt="지근 프로필" />
+        <img src="https://user-images.githubusercontent.com/92859179/204536204-bb3882a5-06df-47f7-9762-f70b0c540503.png" alt="지근 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
       <a href="https://github.com/simjaeseo" target="_blank">
-        <img src="/uploads/754059cebbec97d3f7228f521ad9f9d0/image.png" alt="심재서 프로필" />
+        <img src="https://user-images.githubusercontent.com/92859179/204536221-5532b8a8-005e-4cac-b6f1-dc07fb564f6b.png" alt="심재서 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
       <a href="https://github.com/Givem2thekey" target="_blank">
-        <img src="/uploads/044cc950ab727ae05ca3b21972ea360b/image.png" alt="조덕희 프로필" />
+        <img src="https://user-images.githubusercontent.com/92859179/204536225-8da949e6-94f2-48d0-941c-43f81901af40.png" alt="조덕희 프로필" />
       </a>
     </td>
   </tr>
@@ -125,11 +125,9 @@ Face API를 이용한 표정분석
 | :----: | :----------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 최인호 | Front-end<br />팀장 | - 메인 홈 페이지 개발<br /> - 일정 관리 페이지 개발<br /> - TTS, decibal graph 등 음성 관련 기능 적용<br /> - Teachablemachine, tensorflow 등 영상 분석 관련 기능 적용<br /> - Vuex를 활용한 상태관리<br /> - 개인 모의 면접 대기실 성능 개선 및 UI 수정<br /> - 모의면접 분석 페이지 UI/UX 개선                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 김지수 |      Front-end      | - 회원기능개발<br />- 개인 모의면접 기능 개발 <br />- 세부분석 페이지 개발 <br />- 피그마 설계 및 디자인 <br />- 서비스 디자인 및 UI/UX 개발 |
-| 윤형준 |      Front-end      |                                        |
 | 지근 |     Back-end      | - 회원 도메인 설계 및 개발<br />- 회원 기능 API 개발<br />- 스프링 시큐리티, JWT 인증을 통한 회원가입 / 로그인 구현<br />- 면접 영상 도메인 설계 및 개발<br />- 면접 정보 및 피드백 관련 API 개발<br />- 회원, 일정, 면접 영상 JPA 개발, 리팩토링<br />- Nginx 웹서버 구축 및 배포<br />- Nginx SSL 적용 |
 | 심재서 |     Back-end      | - DB 설계<br />- 일정 도메인 설계 및 개발<br />- 면접 저장 도메인 설계 및 개발<br />- Openvidu 서버 배포<br />- jave 라이브러리를 활용한 mp4 면접파일을 flac 음성파일로 변환<br />- AWS S3, Google Cloud Storage를 활용하여 면접 영상 파일, 음성 파일 저장 기능 구현<br />- Google Speech API를 활용하여 저장된 음성 파일을 스크립트로 변환 (STT 기능)<br />- Spring Boot에 SSL 적용                                                                                                                                                                                                                          |
 | 조덕희 |     Back-end      | - 면접 질문 도메인 설계 및 개발<br />- Teachable Machine 통한 자세 인식 모델 학습 및 구현<br />- 면접 질문 데이터 수집<br />- 산출물 관리 (ERD 정리 및 시연시나리오 작성)
-|
 
 
 ## 기술 스택
